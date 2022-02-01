@@ -1,0 +1,25 @@
+{
+  "name": "crocrodile-trainer",
+  "version": "0.1.0",
+  "description": "A training GUI for Crocrodile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virinas-code/Crorodile-Trainer.git"
+  },
+  "keywords": [
+    "chess"
+  ],
+  "author": "Virinas-code <alexcode228@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Virinas-code/Crorodile-Trainer/issues"
+  },
+  "homepage": "https://github.com/Virinas-code/Crorodile-Trainer#readme",
+  "dependencies": {
+    "chessground": "^8.2.0"
+  }
+}
